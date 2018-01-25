@@ -3,7 +3,7 @@
     "name": "startbootstrap-coming-soon",
     "version": "4.0.0",
     "engines": {
-      "node": "8.3.0"
+        "node": "8.3.0"
     },
     "description": "Coming Soon is a Bootstrap 4 coming soon page theme.",
     "keywords": [
@@ -15,7 +15,7 @@
         "template"
     ],
     "scripts": {
-      "start": "node index.js"
+        "start": "node index.js"
     },
     "homepage": "https://startbootstrap.com/template-overviews/coming-soon",
     "bugs": {
@@ -35,6 +35,7 @@
         "bootstrap": "4.0.0",
         "express": "^4.16.2",
         "font-awesome": "4.7.0",
+        "heroku-ssl-redirect": "0.0.4",
         "jquery": "3.3.0",
         "path": "^0.12.7",
         "vide": "^0.5.1"
